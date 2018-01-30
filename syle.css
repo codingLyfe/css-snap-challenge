@@ -1,0 +1,18 @@
+
+.col {
+	float: left;
+	width: 50%;
+}
+
+img {
+	float: right;
+	width: 300px;
+}
+
+
+/*
+ * preview of how bootstrap works
+ */
+.row {
+	margin: auto 1em;
+}
